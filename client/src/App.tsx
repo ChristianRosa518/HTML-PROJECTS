@@ -27,6 +27,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR and add to
           chris-branch
         </p>
+        <div>hi!</div>
       </div>
       <p className="read-the-docs">
         {objer.length} {objer.length > 1 ? "videos" : "video"}{" "}
