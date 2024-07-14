@@ -24,7 +24,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR and add to
+          Edit <code>src/App.tsx</code> and save to test HMR and test out
           chris-branch
         </p>
       </div>
